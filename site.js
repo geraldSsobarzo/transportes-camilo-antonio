@@ -102,7 +102,7 @@
     "imagenes/grua verde.jpg",
     "imagenes/grua wolf.jpg",
     "imagenes/flota4.jpg"
-    "https://github.com/geraldSsobarzo/transportes-camilo-antonio/blob/main/imagenes/WhatsApp%20Image%202026-01-14%20at%2010.41.29%20PM.jpeg"
+ 
   ];
 
   let sliderIndex = 0;
@@ -422,4 +422,5 @@
     });
   });
 })();
+
 
