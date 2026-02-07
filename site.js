@@ -101,8 +101,7 @@
     "imagenes/grua roja.jpg",
     "imagenes/grua verde.jpg",
     "imagenes/grua wolf.jpg",
-    "imagenes/flota4.jpg",
-    "imagenes/cama baja verde.jpg"
+    "cama baja verde.jpg"
     
  
   ];
@@ -424,6 +423,7 @@
     });
   });
 })();
+
 
 
 
