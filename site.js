@@ -102,7 +102,7 @@
     "imagenes/grua verde.jpg",
     "imagenes/grua wolf.jpg",
     "imagenes/flota4.jpg",
-    "WhatsApp Image 2026-01-14 at 10 10.41.28 PM.jpeg"
+    "WhatsApp Image 2026-01-14 at 10.41.28 PM.jpeg"
     
  
   ];
@@ -424,6 +424,7 @@
     });
   });
 })();
+
 
 
 
